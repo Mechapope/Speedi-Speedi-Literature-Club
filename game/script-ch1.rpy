@@ -12,40 +12,42 @@ label ch1_main:
     mc "This might be a little strange for me, but I at least keep my word."
     show monika at thide zorder 1
     hide monika
-    "Well, I'm back at the Literature Club."
+    "Well, I'm back at the Speed Souls Speedrunning Club."
     "I was the last to come in, so everyone else is already hanging out."
     show yuri 1a at t32 zorder 2
     y "Thanks for keeping your promise, [player]."
     y "I hope this isn't too overwhelming of a commitment for you."
-    y 1u "Making you dive headfirst into literature when you're not accustomed to it..."
+    y 1u "Making you dive headfirst into speedrunning when you're not accustomed to it..."
     show natsuki 4e at t33 zorder 2
     n "Oh, come on! Like he deserves any slack."
-    n "Sayori told me you didn't even want to join any clubs this year."
+    n "Santzo told me you didn't even want to join any clubs this year."
     n "And last year, too!"
     n 4c "I don't know if you plan to just come here and hang out, or what..."
     n "But if you don't take us seriously, then you won't see the end of it."
     show monika 2b at l41
-    m "Natsuki, you certainly have a big mouth for someone who keeps her manga collection in the clubroom."
+    m "Capitaine, you certainly have a big mouth for someone who keeps his anime games collection in the clubroom."
     n 4o "M-M-M...!!"
     show monika at lhide
     hide monika
-    "Natsuki finds herself stuck between saying \"Monika\" and \"Manga\"."
+    #loud
+    "Capitaine finds himself stuck between saying \"Miltent\" and \"Manga\"."
     show natsuki at h33
-    n 1v "Manga is literature!!"
+    n 1v "You can speedrun Anime games!!"
     show natsuki at thide zorder 1
     hide natsuki
-    "Swiftly defeated, Natsuki plops back into her seat."
+    "Swiftly defeated, Capitaine plops back into him seat."
     show yuri at t22 zorder 2
     show sayori 2x at f21 zorder 3
     s "Don't worry, guys~"
     s "[player] always gives it his best as long as he's having fun."
+    #help lift
     s "He helps me with busywork without me even asking."
     s "Like cooking, cleaning my room..."
     show sayori 2a at t21 zorder 2
     show yuri at f22 zorder 3
     y 2m "How dependable..."
     show yuri at t22 zorder 2
-    mc "Sayori, that's because your room is so messy it's distracting."
+    mc "Santzo, that's because your room is so messy it's distracting."
     mc "And you almost set your house on fire once."
     show sayori at s21
     s 5 "Is that so... Ehehe..."
@@ -59,17 +61,17 @@ label ch1_main:
     show yuri at f22 zorder 3
     y 4b "U-Um..."
     show yuri at t22 zorder 2
-    mc "S-Sayori--"
+    mc "S-Santzo--"
     show sayori at f21 zorder 3
     s "Hmm?"
     show sayori at t21 zorder 2
     mc "..."
-    "As usual, Sayori seems oblivious to the weird situation she just put me into."
+    "As usual, Santzo seems oblivious to the weird situation he just put me into."
     show sayori at f21 zorder 3
-    s 4x "Oh, oh! Yuri even brought you something today, you know~"
+    s 4x "Oh, oh! Noobest even brought you something today, you know~"
     show sayori at t21 zorder 2
     show yuri at f22 zorder 3
-    y 3n "W-Wait! Sayori..."
+    y 3n "W-Wait! Santzo..."
     show yuri at t22 zorder 2
     mc "Eh? Me?"
     show yuri at f22 zorder 3
@@ -84,11 +86,11 @@ label ch1_main:
     mc "What is it?"
     show yuri at f22 zorder 3
     y 4c "N-Never mind!"
-    y "Sayori made it sound like a big deal when it's really not..."
+    y "Santzo made it sound like a big deal when it's really not..."
     y "Uuuuh, what do I do..."
     show yuri at t22 zorder 2
     show sayori at f21 zorder 3
-    s 1g "Eh? I'm sorry, Yuri, I wasn't thinking..."
+    s 1g "Eh? I'm sorry, Noobest, I wasn't thinking..."
     show sayori at thide zorder 1
     hide sayori
     show yuri at t11 zorder 2
@@ -101,32 +103,32 @@ label ch1_main:
     mc "Yeah. I won't make it a big deal if you don't want it to be."
     y "Alright..."
     y 1a "Well, here."
-    "Yuri reaches into her bag and pulls out a book."
+    "Noobest reaches into his bag and pulls out a game."
     y "I didn't want you to feel left out..."
-    y "So I picked out a book that I thought you might enjoy."
-    y "It's a short read, so it should keep your attention, even if you don't usually read."
+    y "So I picked out a game that I thought you might enjoy. Dark Souls II."
+    y "It's a short speedrun, so it should keep your attention, even if you don't usually speedrun."
     y "And we could, you know..."
     show yuri at sink
     y 4b "Discuss it...if you wanted..."
     "Th-This is..."
-    "How is this girl accidentally being so cute?"
-    "She even picked out a book she thinks I'll like, despite me not reading much..."
-    mc "Yuri, thank you! I'll definitely read this!"
-    "I enthusiastically take the book."
+    "How is this guy accidentally being so cute?"
+    "He even picked out a game he thinks I'll like, despite me not reading much..."
+    mc "Noobest, thank you! I'll definitely speedrun this!"
+    "I enthusiastically take the game."
     show yuri 2m at t11 zorder 2
     y "Phew..."
-    y 2a "Well, you can read it at your own pace."
+    y 2a "Well, you can learn it at your own pace."
     y "I look forward to hearing what you think."
     show yuri at thide zorder 1
     hide yuri
 
     #Exclusive scene starts here
-    "Now that everyone's settled in, I expected Monika to kick off some scheduled activities for the club."
+    "Now that everyone's settled in, I expected Miltent to kick off some scheduled activities for the club."
     "But that doesn't seem to be the case."
-    "Sayori and Monika are having a cheery conversation in the corner."
-    "Yuri's face is already buried in a book."
-    "I can't help but notice her intense expression, like she was waiting for this chance."
-    "Meanwhile, Natsuki is rummaging around in the closet."
+    "Santzo and Miltent are having a cheery conversation in the corner."
+    "Noobest's face is already buried in a book."
+    "I can't help but notice his intense expression, like he was waiting for this chance."
+    "Meanwhile, Capitaine is rummaging around in the closet."
     
     #Call exclusive scene
     $ nextscene = poemwinner[0] + "_exclusive_" + str(eval(poemwinner[0][0] + "_appeal"))
@@ -137,7 +139,7 @@ label ch1_main:
     hide sayori
     hide natsuki
     hide yuri
-    m "By the way, did you remember to write a poem last night?"
+    m "By the way, did you remember to write a route last night?"
     mc "Y-Yeah..."
     "My relaxation ends."
     "I can't believe I agreed to do something so embarrassing."
@@ -149,11 +151,11 @@ label ch1_main:
     show monika at thide zorder 1
     hide sayori
     hide monika
-    "Sayori and Monika enthusiastically pull out their poems."
-    "Sayori's is on a wrinkled sheet of loose leaf torn from a spiral notebook."
-    "On the other hand, Monika wrote hers in a composition notebook."
-    "I can already see Monika's pristine handwriting from where I sit."
-    "Natsuki and Yuri reluctantly comply as well, reaching into their bags."
+    "Santzo and Miltent enthusiastically pull out their poems."
+    "Santzo's is on a wrinkled sheet of loose leaf torn from a spiral notebook."
+    "On the other hand, Miltent wrote his in a composition notebook."
+    "I can already see Miltent's pristine handwriting from where I sit."
+    "Capitaine and Noobest reluctantly comply as well, reaching into their bags."
     "I do the same, myself."
 
     return
@@ -170,18 +172,18 @@ label ch1_end:
     "That was a little more stressful than I anticipated."
     "It's as if everyone is judging me for my mediocre writing abilities..."
     "Even if they're just being nice, there's no way my poems can stand up to theirs."
-    "This is a literature club, after all."
+    "This is a speedrunning club, after all."
     "I sigh."
     "I guess that's what I ended up getting myself into."
-    "Across the room, Sayori and Monika are happily chatting."
-    "My eyes land on Yuri and Natsuki."
+    "Across the room, Santzo and Miltent are happily chatting."
+    "My eyes land on Noobest and Capitaine."
     show yuri 2g at t21 zorder 2
     show natsuki 1g at t22 zorder 2
     "They gingerly exchange sheets of paper, sharing their respective poems."
     show yuri 2i at t21
     "As they read in tandem, I watch each of their expressions change."
-    "Natsuki's eyebrows furrow in frustration."
-    "Meanwhile, Yuri smiles sadly."
+    "Capitaine's eyebrows furrow in frustration."
+    "Meanwhile, Noobest smiles sadly."
     show natsuki at f22 zorder 3
     n 1q "{i}(What's with this language...?){/i}"
     show natsuki at t22 zorder 2
@@ -191,7 +193,7 @@ label ch1_end:
     show yuri at t21 zorder 2
     show natsuki at f22 zorder 3
     n 2c "Oh, it's nothing."
-    "Natsuki dismissively returns the poem to the desk with one hand."
+    "Capitaine dismissively returns the poem to the desk with one hand."
     n "I guess you could say it's fancy."
     show natsuki at t22 zorder 2
     show yuri at f21 zorder 3
@@ -223,7 +225,7 @@ label ch1_end:
     n 5x "Hmph."
     n "If I was looking for suggestions, I would have asked someone who actually liked it."
     n "Which people {i}did{/i}, by the way."
-    n 5e "Sayori liked it."
+    n 5e "Santzo liked it."
     n "And [player] did, too!"
     n "So based on that, I'll gladly give you some suggestions of my own."
     n "First of all--"
@@ -238,14 +240,14 @@ label ch1_end:
     n 1o "Nn...!"
     show natsuki at t22 zorder 2
     show yuri at f21 zorder 3
-    y 1k "And [player] liked my poem too, you know."
+    y 1k "And [player] liked my route too, you know."
     y "He even told me he was impressed by it."
     stop music fadeout 1.0
-    "Natsuki suddenly stands up."
+    "Capitaine suddenly stands up."
     show yuri at t21 zorder 2
     show natsuki at f22 zorder 3
     n 4y "Oh?"
-    n "I didn't realize you were so invested in trying to impress our new member, Yuri."
+    n "I didn't realize you were so invested in trying to impress our new member, Noobest."
     play music t7
     show natsuki at t22 zorder 2
     show yuri at f21 zorder 3
@@ -253,7 +255,7 @@ label ch1_end:
     y "That's not what I...!"
     y 1o "Uu..."
     y "You...You're just..."
-    "Yuri stands up as well."
+    "Noobest stands up as well."
     y 2r "Maybe you're just jealous that [player] appreciates my advice more than he appreciated yours!"
     show yuri at t21 zorder 2
     show natsuki at f22 zorder 3
@@ -277,12 +279,12 @@ label ch1_end:
     hide sayori
     show natsuki at f33 zorder 3
     n 1f "Well, you know what?!"
-    n "I wasn't the one whose boobs magically grew a size bigger as soon as [player] started showing up!!"
+    n "I wasn't the one whose muscles magically grew a size bigger as soon as [player] started showing up!!"
     show yuri 3p at h32
     show natsuki at t33 zorder 2
-    y "N-Natsuki!!"
+    y "C-Capitaine!!"
     show monika 3l at l41 behind yuri,natsuki
-    m "Um, Natsuki, that's a little--"
+    m "Um, Capitaine, that's a little--"
     show monika at h41
     show yuri 3p at f32 zorder 3
     show natsuki 1e at f33 zorder 3
@@ -297,19 +299,19 @@ label ch1_end:
     hide sayori
     show yuri at t21 zorder 2
     show natsuki 1g at t22 zorder 2
-    "Suddenly, both girls turn towards me, as if they just noticed I was standing there."
+    "Suddenly, both speedrunners turn towards me, as if they just noticed I was standing there."
     show yuri at f21 zorder 3
     y 2n "[player]...!"
-    y "She-- She's just trying to make me look bad...!"
+    y "He-- He's just trying to make me look bad...!"
     show yuri at t21 zorder 2
     show natsuki at f22 zorder 3
     n 4w "That's not true!"
     n "She started it!"
-    n 4e "If she could get over herself and learn to appreciate that {i}simple{/i} writing is more effective..."
+    n 4e "If he could get over himself and learn to appreciate that {i}simple{/i} writing is more effective..."
     n "Then this wouldn't have happened in the first place!"
     n "What's the point in making your poems all convoluted for no reason?"
     n "The meaning should jump out at the reader, not force them to have to figure it out."
-    n 1f "Help me explain that to her, [player]!"
+    n 1f "Help me explain that to him, [player]!"
     show natsuki at t22 zorder 2
     show yuri at f21 zorder 3
     y 3o "W-Wait!"
@@ -326,15 +328,15 @@ label ch1_end:
     show yuri at t21 zorder 2
     show natsuki 1g at t22 zorder 2
     "How did I get dragged into this in the first place?!"
-    "It's not like I know anything about writing..."
+    "It's not like I know anything about speedrunning..."
     "But whomever I agree with, they'll probably think more highly of me!"
     menu:
         "So, of course that's going to be...!"
-        "Natsuki.":
+        "Capitaine.":
             call ch1_end_natsuki
-        "Yuri.":
+        "Noobest.":
             call ch1_end_yuri
-        "Help me, Sayori!!":
+        "Help me, Santzo!!":
             call ch1_end_sayori
 
     scene bg club_day
@@ -342,7 +344,7 @@ label ch1_end:
     with wipeleft_scene
     m "Okay, everyone!"
     m "It's just about time for us to leave."
-    m "How did you all feel about sharing poems?"
+    m "How did you all feel about sharing routes?"
     show monika 4a
     show sayori 4x at t31 zorder 2
     s "It was a lot of fun!"
@@ -375,16 +377,16 @@ label ch1_end:
     s "Ready to walk home?"
     mc "Sure, let's go."
     s 4q "Ehehe~"
-    "Sayori beams at me."
-    "It truly has been a while since Sayori and I have spent this much time together."
+    "Santzo beams at me."
+    "It truly has been a while since Santzo and I have spent this much time together."
     "I can't really say I'm not enjoying it, either."
     scene bg residential_day
     show sayori 1a at t11 zorder 2
     with wipeleft_scene
-    mc "Sayori..."
+    mc "Santzo..."
     mc "About what happened earlier..."
     s 1b "Eh? What do you mean?"
-    mc "You know, between Yuri and Natsuki."
+    mc "You know, between Noobest and Capitaine."
     mc "Does that kind of thing happen often?"
     s 4j "No, no, no!"
     s "That's really the first time I've seen them fight like that..."
@@ -404,12 +406,12 @@ label ch1_end:
     s 4q "Ehehe~"
     s "Every day is going to be so much fun~"
     mc "Sigh..."
-    "It looks like Sayori still hasn't caught onto the kind of situation I'm in."
+    "It looks like Santzo still hasn't caught onto the kind of situation I'm in."
     "Sure, being friends with everyone is nice, but..."
     "...Does it really need to stop there?"
-    mc "We'll just have to see what the future holds, Sayori."
-    "I pat Sayori on the shoulder."
-    "I said that more to myself than to her, but it's easy to use Sayori as an internal monologue sometimes."
+    mc "We'll just have to see what the future holds, Santzo."
+    "I pat Santzo on the shoulder."
+    "I said that more to myself than to him, but it's easy to use Santzo as an internal monologue sometimes."
     show sayori at h11
     s 1x "Okay~!"
     "Yeah..."
@@ -420,19 +422,19 @@ label ch1_end_natsuki:
     $ ch1_choice = "natsuki"
     stop music fadeout 1.0
     mc "Um..."
-    mc "Yuri!"
+    mc "Noobest!"
     mc "You're really talented."
     show yuri 4a at s21
     y "Eh? W-Well..."
     play music t8
-    mc "But Natsuki has a point!"
+    mc "But Capitaine has a point!"
     mc "I think that..."
     show yuri at t21 zorder 2
     "I wrack my brain in an attempt to back myself up."
     mc "I think that conveying feelings with few words..."
     mc "Can be just as impressive as well!"
     mc "It lets the reader's imagination take over."
-    mc "And Natsuki's poem did a really good job at that!"
+    mc "And Capitaine's poem did a really good job at that!"
     show natsuki at f22 zorder 3
     n 5y "...Yeah!!"
     n "It did, didn't it?!"
@@ -442,13 +444,13 @@ label ch1_end_natsuki:
     show yuri at f21 zorder 3
     y 4b "T-That's not..."
     show yuri at t21 zorder 2
-    mc "Natsuki..."
+    mc "Capitaine..."
     mc "I think that's enough."
     show natsuki at f22 zorder 3
     n 1m "Huh?"
     n "Me?"
-    n "But she was so mean to me...!"
-    "Natsuki's voice whines."
+    n "But he was so mean to me...!"
+    "Capitaine's voice whines."
     show natsuki at t22 zorder 2
     mc "Look..."
     mc "What we talked about yesterday was right."
@@ -457,23 +459,23 @@ label ch1_end_natsuki:
     mc "It looks like we learned that today."
     mc "Even small criticism can lead to something pretty heated."
     "I glance over my shoulder."
-    "Sayori is nodding vigorously."
+    "Santzo is nodding vigorously."
     mc "Yeah, so..."
     mc "You don't need to feel threatened."
-    mc "You're a great writer, Natsuki."
+    mc "You're a great writer, Capitaine."
     show natsuki at f22 zorder 3
     n 1h "Ah--"
-    "Natsuki's voice gets caught in surprise."
+    "Capitaine's voice gets caught in surprise."
     n 1q "...Thanks for noticing."
     "She finally mutters that, barely audible."
     show natsuki at t22 zorder 2
-    mc "Yuri..."
+    mc "Noobest..."
     show yuri at f21 zorder 3
     y 4a "...?"
-    "Yuri looks at me dejectedly."
-    "With a face like that, I can't help but feel bad for her as well."
+    "Noobest looks at me dejectedly."
+    "With a face like that, I can't help but feel bad for him as well."
     show yuri at t21 zorder 2
-    mc "I'm sure that Natsuki didn't mean everything she said."
+    mc "I'm sure that Capitaine didn't mean everything he said."
     mc "So you don't need to feel threatened, either."
     show yuri at f21 zorder 3
     y 2v "Well..."
@@ -483,25 +485,25 @@ label ch1_end_natsuki:
     n 1g "Hey...!"
     n "It's not like you need to apologize {i}for{/i} me, [player]."
     n 1w "Sheesh."
-    "Natsuki takes a breath."
+    "Capitaine takes a breath."
     n 1q "I..."
     n "The thing about..."
     n "Uu..."
-    "Natsuki glances around the room."
+    "Capitaine glances around the room."
     show natsuki at hf22 zorder 3
     n 1x "{i}Would everyone stop staring at me??{/i}"
-    "Unsurprisingly, Natsuki has a harder time with it than she boasted."
-    "Sayori and Monika look away."
+    "Unsurprisingly, Capitaine has a harder time with it than he boasted."
+    "Santzo and Miltent look away."
     show natsuki at f22 zorder 3
     n 1i "Hmph."
     n "Anyway...!"
     n 1q "The thing about your boobs. I didn't mean it, okay?"
     n "That's all."
-    "Natsuki looks away, avoiding eye contact with anyone."
+    "Capitaine looks away, avoiding eye contact with anyone."
     show natsuki at t22 zorder 2
     show sayori 4x at l41 behind yuri
-    s "Yeah! You're naturally beautiful, Yuri!!"
-    mc "Sayori?!"
+    s "Yeah! You're naturally beautiful, Noobest!!"
+    mc "Santzo?!"
     show yuri 4c at f21 zorder 3
     y "..."
     y "I-I'll go make some tea..."
@@ -511,8 +513,8 @@ label ch1_end_natsuki:
     s 4h "Ehh?"
     s "I was just trying to help!"
     show sayori at t41 zorder 2
-    mc "I'm sure she appreciated it, Sayori."
-    "I pat Sayori on the shoulder."
+    mc "I'm sure he appreciated it, Santzo."
+    "I pat Santzo on the shoulder."
     show sayori at thide zorder 1
     show natsuki at thide zorder 1
     show monika 4m at t11 zorder 2
@@ -533,7 +535,7 @@ label ch1_end_natsuki:
     m "So maybe you can take the chance to pick up a book, or do some writing."
     m 1b "After all, that's what the club is for!"
     show sayori 2j at f31 zorder 3
-    s "I disagree, Monika!"
+    s "I disagree, Miltent!"
     show sayori at t31 zorder 2
     show monika at f32 zorder 3
     m 1d "Eh? About what?"
@@ -546,14 +548,14 @@ label ch1_end_natsuki:
     show sayori at t31 zorder 2
     show monika at f32 zorder 3
     m 2l "Ahaha, of course..."
-    m 2a "Well, I guess that's why you're the Vice President, Sayori."
+    m 2a "Well, I guess that's why you're the Vice President, Santzo."
     show monika at t32 zorder 2
     show sayori at f31 zorder 3
     s 4q "Ehehe..."
     hide sayori
     hide monika
     with wipeleft
-    "In the end, though, Monika's right."
+    "In the end, though, Miltent's right."
     "Being in the Literature Club probably means I can't spend all my time doing nothing."
     "But in the end..."
     "...I guess it's been worth it so far."
@@ -562,7 +564,7 @@ label ch1_end_natsuki:
 label ch1_end_yuri:
     $ ch1_choice = "yuri"
     stop music fadeout 1.0
-    mc "Natsuki."
+    mc "Capitaine."
     mc "You're right that I liked your poem."
     show natsuki at f22 zorder 3
     n 1e "See??"
@@ -573,11 +575,11 @@ label ch1_end_yuri:
     mc "You shouldn't pick a fight just because someone's opinion is different."
     show natsuki at f22 zorder 3
     n 1m "That's not what happened at all!"
-    n "Yuri wouldn't even take my poem seriously!"
+    n "Noobest wouldn't even take my poem seriously!"
     show natsuki at t22 zorder 2
     mc "Mm..."
     mc "I understand."
-    mc "Yuri."
+    mc "Noobest."
     show yuri at f21 zorder 3
     y 2t "Eh?"
     show yuri at t21 zorder 2
@@ -589,7 +591,7 @@ label ch1_end_yuri:
     mc "But here's the thing."
     mc "No matter how simple or refined someone's writing style is..."
     mc "They're still putting feelings into it, and it becomes something really personal."
-    mc "That's why Natsuki felt threatened when you said her poem was cute."
+    mc "That's why Capitaine felt threatened when you said his poem was cute."
     show yuri at f21 zorder 3
     y 2v "I...see..."
     y "I didn't notice that I..."
@@ -600,25 +602,25 @@ label ch1_end_yuri:
     show natsuki at t11 zorder 2
     show yuri at thide zorder 1
     hide yuri
-    mc "But Natsuki, you took it way too far!"
-    mc "Yuri means well, and if you just told her how you felt..."
+    mc "But Capitaine, you took it way too far!"
+    mc "Noobest means well, and if you just told him how you felt..."
     mc "Then this wouldn't have happened in the first place."
     n 1e "Are you kidding?"
     n "That's exactly what I did!"
     n "It was {i}her{/i} that--"
     show natsuki at t22 zorder 2
     show monika 2i at f21 zorder 3
-    m "Natsuki, I think that's enough."
+    m "Capitaine, I think that's enough."
     m "You both said some things that you didn't mean."
-    m "Yuri apologized. Don't you think you should, too?"
+    m "Noobest apologized. Don't you think you should, too?"
     show monika at t21 zorder 2
     show natsuki at f22 zorder 3
     n 1x "Nnn...!"
     show natsuki at t22 zorder 2
-    "Natsuki clenches her fists."
-    "In the end, nobody has taken her side."
-    "She's trapped, at this point being defiant only because she can't handle the pressure."
-    "I end up even feeling bad for her."
+    "Capitaine clenches his fists."
+    "In the end, nobody has taken his side."
+    "He's trapped, at this point being defiant only because he can't handle the pressure."
+    "I end up even feeling bad for him."
     show monika at t32 zorder 2
     show natsuki at t33 zorder 2
     show sayori 2h at l41
@@ -626,17 +628,17 @@ label ch1_end_yuri:
     s "Sometimes when I'm hurt..."
     s "It helps to take a walk and clear my head!"
     show sayori at t41 zorder 2
-    mc "Sayori, she doesn't need to--"
+    mc "Santzo, he doesn't need to--"
     show natsuki at f33 zorder 3
     n 2q "You know what?"
     n "I'm going to do that."
     n 2w "It'll spare me from having to look at all your faces right now."
     show natsuki at thide zorder 1
     hide natsuki
-    "Without warning, Natsuki snatches her own poem up from the desk and storms out."
-    "On her way out, she crumples up the poem with her hands and throws it in the trash."
+    "Without warning, Capitaine snatches his own poem up from the desk and storms out."
+    "On his way out, he crumples up the poem with his hands and throws it in the trash."
     show sayori at f41 zorder 3
-    s 1k "Natsuki..."
+    s 1k "Capitaine..."
     show sayori at t41 zorder 2
     show monika at f32 zorder 3
     m 1r "She really didn't need to do that..."
@@ -645,15 +647,15 @@ label ch1_end_yuri:
     hide sayori
     hide monika
     "I look across the room."
-    "Yuri has her chin buried in her hands while she stares down at her desk."
-    "I gingerly approach her and sit in an adjacent chair."
+    "Noobest has his chin buried in his hands while he stares down at his desk."
+    "I gingerly approach him and sit in an adjacent chair."
     show yuri 4b at t11 zorder 2
     y "Sigh..."
     mc "Everything alright?"
     y "I'm so embarrassed..."
     y "I can't believe I acted like that."
     y "You probably hate me now..."
-    mc "No--Yuri!"
+    mc "No--Noobest!"
     mc "How could anyone not have gotten frustrated after being treated like that?"
     mc "You handled it as well as anyone could."
     mc "I don't think any less of you."
@@ -663,12 +665,12 @@ label ch1_end_yuri:
     y "I'm thankful to have you a part of this club now."
     mc "Er-- It's nothing."
     y 2v "One more thing..."
-    y "Um, that one thing that Natsuki said..."
+    y "Um, that one thing that Capitaine said..."
     y 4c "About...you know..."
     y "I would never do anything...so shameful..."
     y "So..."
     mc "...Eh?"
-    mc "What thing did Natsuki say?"
+    mc "What thing did Capitaine say?"
     y 3n "--!"
     y "U-Um!"
     y 3q "Well, never mind that..."
@@ -680,40 +682,40 @@ label ch1_end_yuri:
 
 label ch1_end_sayori:
     $ ch1_choice = "sayori"
-    mc "N-Natsuki..."
+    mc "C-Capitaine..."
     show natsuki 5f
-    "Natsuki glares at me, drying up any words I had in my mouth."
-    "So instead, I turn to Yuri."
-    mc "Yuri..."
+    "Capitaine glares at me, drying up any words I had in my mouth."
+    "So instead, I turn to Noobest."
+    mc "Noobest..."
     y 4a "..."
-    "But Yuri's expression is so defenseless that I can't bring myself to say anything to her."
+    "But Noobest's expression is so defenseless that I can't bring myself to say anything to him."
     stop music fadeout 1.0
     mc "..."
-    mc "...Sayori!"
+    mc "...Santzo!"
     show sayori 4m at l31 behind yuri
     show yuri at t32 zorder 2
     show natsuki at t33 zorder 2
     s "Eh?!"
     mc "...Yeah!"
-    mc "Everyone's fighting is making Sayori uncomfortable."
+    mc "Everyone's fighting is making Santzo uncomfortable."
     mc "How can the two of you keep fighting when you know you're making your friend feel like this?"
     show sayori at f31 zorder 3
     s 4d "[player]..."
     show sayori at t31 zorder 2
     show natsuki 4w at f33 zorder 3
-    n "Well... That's her problem! This isn't about her."
+    n "Well... That's his problem! This isn't about him."
     show natsuki at t33 zorder 2
     show yuri 2g at f32 zorder 3
     y "I-I agree..."
     y "It's unfair for others to interject their own feelings into our conflict."
     show yuri at t32 zorder 2
     show natsuki at f33 zorder 3
-    n 4c "Yeah, unless Sayori wants to tell Yuri what a stuck-up jerk she's being."
+    n 4c "Yeah, unless Santzo wants to tell Noobest what a stuck-up jerk he's being."
     show natsuki at t33 zorder 2
     show yuri 3r at f32 zorder 3
     play music t7
     y "She would never...!"
-    y "It's your immaturity that's made her upset in the first place!"
+    y "It's your immaturity that's made him upset in the first place!"
     show yuri at t32 zorder 2
     show natsuki 1e at f33 zorder 3
     n "{i}Excuse{/i} me?"
@@ -731,14 +733,14 @@ label ch1_end_sayori:
     show natsuki at t33 zorder 2
     show sayori at f31 zorder 3
     play music t8
-    s 1h "Natsuki! Yuri!"
+    s 1h "Capitaine! Noobest!"
     s "You guys are my friends!"
     s 1v "I-I just want everyone to get along and be happy!"
     s "My friends are wonderful people..."
     s "And I love them because of their differences!"
-    s 1g "Natsuki's poems..."
+    s 1g "Capitaine's poems..."
     s "They're amazing because they give you so many feelings with just a few words!"
-    s "And Yuri's poems are amazing because they paint beautiful pictures in your head!"
+    s "And Noobest's poems are amazing because they paint beautiful pictures in your head!"
     s 4k "Everyone's so talented..."
     s "...So why are we fighting...?"
     show sayori at t31 zorder 2
@@ -750,8 +752,8 @@ label ch1_end_sayori:
     show yuri at t32 zorder 2
     show sayori at f31 zorder 3
     s 1j "Also!"
-    s "Natsuki's cute and there's nothing wrong with that!"
-    s 1i "And Yuri's boobs are the same as they always were!"
+    s "Capitaine's cute and there's nothing wrong with that!"
+    s 1i "And Noobest's boobs are the same as they always were!"
     show sayori at hf31
     s 1j "Big and beautiful!!"
     show sayori 1i at t31 zorder 2
@@ -761,22 +763,22 @@ label ch1_end_sayori:
     show yuri at f32 zorder 3
     y 3n "..."
     show yuri at t32 zorder 2
-    mc "Sayori..."
-    "Sayori stands triumphantly."
-    "Monika stands behind her with a bewildered expression."
+    mc "Santzo..."
+    "Santzo stands triumphantly."
+    "Miltent stands behind him with a bewildered expression."
     show yuri at s32
     y 3q "I'll...make some tea..."
     show yuri at lhide behind sayori
     hide yuri
-    "Yuri rushes off."
+    "Noobest rushes off."
     show natsuki at thide zorder 1
     hide natsuki
-    "Natsuki sits down with a blank expression on her face, staring at nothing."
+    "Capitaine sits down with a blank expression on his face, staring at nothing."
     show sayori at thide zorder 1
     show monika 1i at t11 zorder 2
     hide sayori
-    mc "So, this is why Sayori is Vice President..."
-    "I whisper to Monika."
+    mc "So, this is why Santzo is Vice President..."
+    "I whisper to Miltent."
     "She nods in return."
     m 1d "To be honest..."
     m "I might come off as a good leader, and I can organize things..."
@@ -788,15 +790,15 @@ label ch1_end_sayori:
     mc "It's not like I can blame you."
     mc "I wasn't able to say anything, either."
     m "Well..."
-    m 2a "I guess that just means Sayori is amazing in her own ways, isn't she?"
+    m 2a "I guess that just means Santzo is amazing in his own ways, isn't he?"
     mc "You could say that."
-    mc "She might be an airhead, but sometimes it's weirdly suspicious that she knows exactly what she's doing."
+    mc "She might be an airhead, but sometimes it's weirdly suspicious that he knows exactly what he's doing."
     m 5 "I see~"
-    m "Take good care of her, okay?"
-    m "I would hate to see her get herself hurt."
+    m "Take good care of him, okay?"
+    m "I would hate to see him get himself hurt."
     mc "That makes two of us..."
     mc "You can count on me."
-    "Monika smiles sweetly at me, causing my stomach to knot."
-    "Such a genuine person really does make a good President, regardless of what she says."
-    "If only I could get the chance to talk to her a little more..."
+    "Miltent smiles sweetly at me, causing my stomach to knot."
+    "Such a genuine person really does make a good President, regardless of what he says."
+    "If only I could get the chance to talk to him a little more..."
     return

@@ -13,19 +13,11 @@ label start:
     $ _dismiss_pause = config.developer
 
     # Each of the girls' names before the MC learns their name throughout ch0.
-
-    #char ideas:
-    #santzo (sm)
-    #miltent (smn)
-    #capitaine (ny)
-    #ela (smny)
-    #mordos (y)
-    #noobest (smny)
     
-    $ s_name = "Sayori"
-    $ m_name = "Monika"
-    $ n_name = "Natsuki"
-    $ y_name = "Yuri"
+    $ s_name = "Santzo"
+    $ m_name = "Miltent"
+    $ n_name = "Capitaine"
+    $ y_name = "Noobest"
 
     $ quick_menu = True
     $ style.say_dialogue = style.normal

@@ -11,14 +11,53 @@ init python:
     author = "yuri",
     title = "Ghost Under the Light",
     text = """\
-The tendrils of my hair illuminate beneath the amber glow.
-Bathing.
-It must be this one.
-The last remaining streetlight to have withstood the test of time.
-the last yet to be replaced by the sickening blue-green hue of the future.
-I bathe. Calm; breathing air of the present but living in the past.
-The light flickers.
-I flicker back."""
+Dark Souls 2 Any% (also known as Broken%) uses the Dragon Tooth and utilizes several glitches such as binoboost and parrywalking
+ 
+# Majula
+- Start Explorer, Life Ring
+- Pickup the binoculars
+- Talk to Emerald Herald and Light the bonfire
+ 
+# Shaded Woods
+- Binoboost to the gate to Shaded Woods
+- Parrywalk of the infected hollow and use the out of bound to skip around the gate (7 jumps)
+- Light the crossroads bonfire
+- Pickup the golden falcon shield
+- Binoboost to the Shrine of Winter gate
+- Parrywalk of the infected hollow and use the out of bounds skip to get to Aldia's Keep (12 jumps)
+ 
+# Aldias Keep
+- Parry walk of the first Dragon Acolyte to do the out of bounds to skip Guardian Dragon
+ 
+# Dragon Aerie
+- Pick up the Dragon Tooth
+- Pickup the Soul of a Great Hero
+- Get the Ashen Mist Heart from Big Papa Dragon and Darksign
+- Warp to Majula
+ 
+# Majula
+- Pop the Soul of a Great Hero
+- Level up 9 VGR, 25 STR, 10 DEX
+- Head towards Forest of Fallen Giants
+ 
+# Forest of Fallen Giants
+- Parrywalk of the first hollow and do the out of bounds skip to get to Memory of Jeigh (5 jumps)
+- Binoboost through the Memory of Jeigh to get the rolling head to hit Giant Lord
+- Tickle Giant Lords feet with the Dragon Tooth (Ooze)
+- Darksign and Warp to Shaded Woods
+ 
+# Shaded Woods
+- Parry Walk of the first infected hollow to skip Shrine of Winter
+- Pickup the Holy Water Urns
+- Parry Walk of the first Royal Soldier and do the out of bounds skip to get to the Throne of Want (2 jumps)
+ 
+# Throne of Want
+- Use fall of strats to get Throne Watcher to fall of
+- Whack Throne Defender with your Dragon Tooth (Ooze)
+- Freeze Nashandra with the Holy Water Urns (Nash Glitch)
+- Whack her with the Dragon Tooth (Ooze)
+ 
+# Celebrate"""
     )
 
     poem_y2 = Poem(
@@ -178,14 +217,68 @@ unreleased tension experienced by my entire body. Her Third Eye is drawing me cl
     author = "natsuki",
     title = "Eagles Can Fly",
     text = """\
-Monkeys can climb
-Crickets can leap
-Horses can race
-Owls can seek
-Cheetahs can run
-Eagles can fly
-People can try
-But that's about it."""
+== Ressources ==
+Item Swap : http://speedsouls.com/darksouls:Item_Swap
+Wrong Warp : http://speedsouls.com/darksouls:Wrong_Warp
+ 
+== Notes ==
+Thief with black firebombs
+Kill asylum with 5 firebombs
+Grab the bandit knife (not the shield)
+Get the estus and warp to Firelink
+ 
+Go through undead burg
+Buy the rapier, short bow, east-west shield and the rest in arrows to the undead merchand
+Get the gold pine resins
+Kill Taurus with resin bandit knife
+ 
+Get the drake sword
+> Sen's Gate Skip
+Rest and level up 13 STR at the undead parish bonfire (during Sen's Gate Skip)
+Go through Sen's
+Kill Golem with moveswap Drake Sword
+ 
+Rest and level up 12 END and 27 STR at the AL bonfire
+Use Golem Soul on the AL elevator
+Go through AL
+Grab the Dragon Tooth and use it for now on
+Kill O&S
+Aquire the Lord Vessel, bone back
+ 
+Warp to Firelink Shrine, then Warp to Undead Parish
+Kill Gargoyles
+Ring the bell, bone back
+ 
+Kick Lautrec, quitout to get the FAP ring
+Dupe Smough's soul Twice on your way to New Londo
+Blighttown drop
+kill Quelaag
+Ring the bell, bone back
+ 
+Go to Firelink Altar, place the lord vessel
+Warp to undead parish
+ 
+Buy the Crest of Artorias, weapon smithbox and caduceus shield to Andre
+Rest and level up 25 END at the Forest bonfire
+Kill Hydra (5 bombs and 4 jump attacks)
+Kill the golden golem, say yes to Dusk, bone back
+ 
+Upgrade the Dragon Tooth to +1
+Warp to AL, go to duke archives
+Kill the golem for the Broken Pendant, bone back
+ 
+Go to the DLC
+Kill Guardian
+Rest at the sanctuary bonfire
+> Royal wood skip without fall control
+Kill Artorias
+ 
+Enter the battle of stoicism to aquire the purple coward's crystal and dark sign
+Warp to Firelink Shrine then Firelink Altar
+Rest at the Lord Vessel, warp to sanctuary
+ 
+> Item swap with the purple coward's crystal, use the dark sign asap
+Kill Gwyn"""
     )
 
     poem_n2 = Poem(
@@ -347,20 +440,429 @@ I'm counting on you. Thanks for reading."""
     author = "sayori",
     title = "Dear Sunshine",
     text = """\
-The way you glow through my blinds in the morning
-It makes me feel like you missed me.
-Kissing my forehead to help me out of bed.
-Making me rub the sleepy from my eyes.
+Dark Souls II All Bosses By Newbiesaurus 
+Current WR (Distortion2 2:21:07 RTA w/out Loads): https://www.youtube.com/watch?v=S3_RVVWbS8I
+Dark souls II All Bosses uses the Rapier and Red Iron Twinblade. Make sure to equip Maughlin'soul
+before getting bosses' souls for the full Levelup. Two hand your left weapon for faster pickups,
+foggates, and doors. Ring Swaps are shown up to a certain point. Best way to remember is to always
+swap to the silver serpent ring after defeating a boss until you have beaten sinh. If you're using 
+the rapier, use Flynn's, Chloranthy, Leo, and Blades. If you're using rtsr use Flynn's, Chloranthy,
+RTSR, and Blades. If no rtsr and twinblade just use Flynn's, Chloranthy, Thorns, and Blades. 
 
-Are you asking me to come out and play?
-Are you trusting me to wish away a rainy day?
-I look above. The sky is blue.
-It's a secret, but I trust you too.
+Things Betwix 
+-Start Explorer
+-Gift Healing Wares
 
-If it wasn't for you, I could sleep forever.
-But I'm not mad.
+Majula 
+-Kill Maughlin 
+-Talk to Emerald Herald 
+-Light bonfire
 
-I want breakfast."""
+Forest of the Fallen Giants
+-Pickup Homeward Bone by the creek 
+-Buy Handaxe and 1 firebomb from Melentia (2 firebombs if you picked up an extra soul)
+-Talk to Melentia so she warps to Majula
+-Blow up wall
+-Equip Armor
+-Kill Last Giant (Aromatic Ooze/Witching Urns)
+	-Before killing Last Giant use the Dark Sign but don't accept
+-Dark Sign before receiving Last Giant souls
+
+-Kill Pursuer (Ballista)
+-Pop Last Giant soul while waiting for the foggate 
+-Goto Lost Bastille 
+
+Lost Bastille
+-Warpto Majula
+
+Majula
+-Pop Pursuer soul while talking to Melentia
+-Buy Blacksmith Key and 3x Brightbug
+-Get Silver Serpent Ring 
+
+-Open Blacksmith door 
+-Levelup 14end/12dex
+-Sit on bonfire 
+
+-Pickup Bow 
+-Buy 1x Rapier, 1x Mace, 9x Titanite Shards, 12x Wooden Arrows
+-Upgrade Rapier +3, Mace +2 
+
+-Equip Silver Serpent Ring/Ring of Blades
+-Goto Heide's Tower of Flame
+
+Heide's Tower of Flame 
+-Kill the knight before Old Dragon Slayer bridge (Mace)
+-Kill Old Dragon Slayer (Rapier/Ooze)
+
+-Run to Dragon Rider 
+-Kill Dragon Rider (Falloff strats 12:04)
+-Pop Dragon Slayer Soul
+-Equip Leo Ring before the foggate
+
+-Run to No-Man's Wharf 
+-Pop Dragon Rider Soul while on Elevator
+
+No-Man's Wharf
+-Shoot the bell (14:02)
+-Pickup 3x Dark Pine Resin
+-Do No-Man's Wharf Jump (14:30)
+-Kill Flexile Sentry (Rapier/DarkPine)
+-Boneout
+
+Majula
+-Levelup 11vgr/25end/20dex
+-Pop Flexile Soul 
+-Buy Cat Ring/10x Homeward Bones/10x Alluring Skulls
+-Equip Cat Ring
+-Drop to Pit 
+
+Grave of Saints 
+-Kill Royal Rat Vanguard (Rapier/Brightbug/1x Alluring Skull)
+~Join Rat Covenant 
+-Goto the Gutter
+
+Gutter
+-Goto Black Gulch 
+
+Black Gulch
+-Light bonfire before Rotten 
+-Kill Rotten (Rapier/Brightbug/Ooze)
+-Light Primal Bonfire
+-Goto Shulva 
+
+Shulva 
+-Equip Bow and Arrows
+-Sinh Jump (21:48)
+-Shoot pillar or do Photoshop Jump (22:03)
+-Pop Rotten Soul
+-Light Bonfire
+
+Dragon's Sanctum 
+-Shoot pressure plates 
+-Pickup 1x Soul of a Great Hero/Dragon Charm
+-Pickup Flynn's ring 
+-Equip Flynn's Ring (Flynn's/Blades/Leo/Cat)
+
+-Shoot at Pressure Plate after spikes (24:08)
+-Use Alluring Skull 
+-Shoot at Pressure Plate by broken stairs 
+-Pickup Dragon Stone
+~Light Bonfire
+-Pickup Eternal Sanctum Key
+-Boneout 
+-Warpto Majula
+
+Majula 
+-Pop Great Hero Soul
+-Levelup 20vgr/30end/11str
+-Buy 11x LifeGems/3x Brightbug
+-Goto Huntsman's Copse 
+
+Huntsman's Copse
+-Light Bonfire
+-Pull the lever 
+-Kill Hollow by the lever 
+-Kill Skeleton Lords (Mace)(Flynn/Blades/Cat/Serpent)
+-Pop Skeleton Lords Soul and swap rings (Flynn/Blades/Cat/Leo)
+-Goto Harvest Valley
+
+Harvest Valley
+-Talk to Chloanne 
+-Jump to Titanite Chunk (31:11)
+-Pickup torch/Ring Swamp (Flynn/Blades/Serpent/Leo)
+-Do Harvest Valley Jump (31:39)
+-Kill Covetous (Rapier) (Flynn/Blades/Cat/Leo)
+
+-Ladder after Covetous (32:55)
+-Swap Rings (Flynn/Blades/Serpent/Leo)
+-Kill Mytha (Rapier/Brightbug/DarkPine/OldRadiant)
+
+-Heal Poison/Pop souls on Elevator
+
+Iron Keep 
+-Iron Keep Jump (35:25)
+-Kill Smelter Demon (Rapier/Brightbug/DarkPine)
+
+-Kill Turtle Knight (Mace R2/Roll/R2)
+-Kill Old Iron King (Rapier/Brightbug/Ooze)
+-Light Primal Bonfire
+-Goto Brume Tower
+
+Brume Tower
+-Pop Souls on Elevator
+-Ring Swap (Flynn/Blades/Cat/Leo) (40:06)
+-Alluring Skull Animation Skip (40:34)
+-Brume Tower Jump (40:50)
+-Light Bonfire
+-Warpto Majula 
+
+Majula
+-Buy 10x Large Shards from Chloanne
+-Reinforce Rapier +7
+-Buy 5x Effigies/77x LifeGems/3x Brightbugs
+-Ring Swap (Flynn/Blades/Serpent/Leo)
+-Goto Shaded Woods
+
+Shaded Woods
+-Light Bonfire
+-Buy 41x Goldpine Resin
+-Pickup Chloranthy Ring (Flynn/Blades/Chloranthy/Leo)
+-Talk to Gandalf 
+-Light Bonfire
+-Kill Najka(Rapier/Goldpine) (Flynn/Blades/Chloranthy/Serpent)
+
+Door of Pharos 
+-Light Bonfire
+-Goto Brightstone Cove Tseldora 
+
+Brightstone Cove Tseldora
+-Use 1x Alluring Skull on the Hollows
+-Kill Magus (Rapier/Goldpine)
+-Ring swap (Flynn/Blades/Chloranthy/Cat)
+-Kill Lizard (Mace)(49:37)
+-Pickup 1x Titanite Chunk 
+
+-Use 1x Alluring Skull on Spiders
+-Kill Freja (Rapier/Brightbug/Goldpine) (Flynn/Blades/Chloranthy/Serpent)
+-Light and sit on Primal Bonfire
+
+Majula 
+-Buy 3x Brightbug
+-Warpto Lost Bastille
+
+Lost Bastille
+-Ring Swap (Flynn/Blades/Chloranthy/Leo)
+-Kill Ruin Sentinels (Rapier/Goldpine) (Flynn/Blades/Chloranthy/Serpent)
+-Light Bonfire (Flynn/Blades/Chloranthy/Cat)
+-Goto Belfry Luna
+
+Belfry Luna 
+-Ring the Bell
+-Ring Swap (Flynn/Blades/Chloranthy/Leo)
+-Kill Gargoyles (Rapier/Goldpine/Brightbug)(Flynn/Blades/Chloranthy/Serpent)
+-Boneout
+
+Lost Bastille
+-Pull lever and pop Souls
+-Ring Swap (Flynn/Blades/Chloranthy/Cat)
+-Pop souls on Elevator
+-Kill Lost Sinner (Rapier/Goldpine)
+-Light Primal Bonfire/Talk to Aldia
+-Boneout
+
+-Warpto Shaded Woods
+
+Shaded Woods
+-Goto Frozen Eleum Loyce
+
+Frozen Eleum Loyce
+-Trigger Snow storm
+-Light Bonfire 
+-Warpto Majula
+
+Majula
+-Upgrade Rapier +10
+-Buy 3x Brightbugs
+-Warpto Shaded Woods
+
+Shaded Woods
+-Goto Drangleic Castle
+
+Drangleic Castle
+-Kill Lizard 
+-Kill the two knights to trigger door/Pop souls while waiting
+-Light Bonfire
+-Talk to Gandalf 
+-Boneout
+
+-Pickup Soul of a Hero
+-Kill Dragon Riders (Rapier/Goldpine)
+-Light Bonfire
+
+-Trigger Elevator
+-Pickup Flame Butterflies
+-Pop souls on Elevator
+-Pickup Key to King's Passage 
+-Boneout
+
+-Pickup 3x Alluring Skulls
+-Kill Mirror Knight (Rapier/Brightbug/Goldpine) (1:09:52)
+-Goto Shrine of Amana 
+
+Shrine of Amana 
+-Movement for Amana (1:12:00)
+-Pickup Red Iron Twinblade (1:13:30)
+-Kill Demon of Song (Rapier/Goldpine)
+-Goto Undead Crypt
+
+Undead Crypt
+-Light Bonfire
+-Buy Shield of the Insolent/Ring of Thorns +1/13x Elizabethan Mushrooms
+-Light Bonfire
+-Use Bow and Arrow to aggro Shield Knights (1:17:27)
+-Pull lever
+-Kill Veldstat (Rapier/Brightbug/Goldpine)
+-Pickup King's Ring
+-Boneout
+
+-Warpto Majula 
+
+Majula
+-Buy 6x Titanite Shards/2x Large Shards/6x Titanite Chunks from Chloanne
+-Upgrade Red Iron Twinblade +10
+-Levelup 40str/18adp
+-Warp to Shaded Woods
+
+Shaded Woods
+-Pickup Red Tearstone Ring
+-Pop Veldstat soul at door
+-Ring Swap (Flynn/Blades/Chloranthy/RTSR)
+-Get RTSR by getting hit by Ogre
+-Kill Guardian Dragon (Twinblade/Goldpine/RTSR)
+-Goto Dragon Aerie
+
+Dragon Aerie 
+-Do Aerie Jump (1:25:01)
+-Goto Dragon Shrine
+
+Dragon Shrine
+-Light Bonfire
+-Kill Ancient Dragon (Twinblade/Brightbug/Goldpine/RTSR) (RTSR setup: 1:27:14)
+-Boneout
+
+-Warp to Forest of the Fallen Giants
+
+Forest of the Fallen Giants
+-Do Giant Lord Jump (1:28:09)
+-Kill Giant Lord (Twinblade/Goldpine/RTSR)
+-Pickup Soul of a Giant 
+-Boneout
+
+-Warpto Dragon's Sanctum bonfire
+
+Dragon's Sanctum
+-Use Dragon Stone
+-Shoot Pillar for the Elevator
+-Drop to Elana (1:31:40)
+-Kill Elana (Twinblade/Brightbug/Goldpine/RTSR) (1:32:15)
+-Kill Sihn (Twinblade/Goldpine/RTSR)
+-Warpto Majula
+
+Majula
+-Buy 10x Radiant Gems/3x Brightbugs
+-Make sure to have 40str/20dex/25adp rest to vgr. 
+-Warpto Huntsman's Copse
+
+Huntsman's Copse 
+-Goto Undead Purgatory
+
+Undead Purgatory
+-Use 1x Alluring Skull for skeletons in Chariot fight
+-Kill Chariot (Twinblade/Goldpine)
+-Darksign Out
+-Warpto Doors of Pharos
+
+Doors of Pharos
+-Kill Royal Rat Authority (Twinblade/Goldpine/Mushroom)
+-Darksign Out
+-Warpto Shulva
+
+Shulva 
+-Use 1x Alluring Skull for casters
+-Light Bonfire, drop to pit and Darksign for invader
+
+Cave of the Dead
+-Pickup 2x Brightbugs
+-Kill Gank Squad (Twinblade/Brightbug/Goldpine/Mushroom)
+-Darksign Out
+-Warpto Frozen Eleum Loyce
+
+Frozen Eleum Loyce
+-Kill Invisible Aava (Twinblade/Brightbug/Goldpine/Mushroom)
+-Goto Grand Cathedral 
+
+Grand Cathedral
+-Talk to Alsanna 
+-Kill Ivory King w/ 1 Knight (Twinblade/Brightbug/2x Goldpine/Mushroom)
+	- Could use Rapier for phase 2 and is all up to preference 
+-Darksign Out
+
+Frozen Eleum Loyce
+-Light the 4 cauldrons 
+-Pickup Garrison Ward Key
+-Pickup 5x Radiant LifeGems/3x before lever 
+-Pickup 2x Brightbugs from chest
+-Goto Frigid Outskirts 
+
+Frigid Outskirts
+-Optional: Summon Abbess 
+-Frigid Outskirts pathing (1:52:41) 
+-Kill Twin Pets (Rapier or Twinblade/Brightbug/Goldpine/Mushroom)
+-Darksign Out
+-Goto Brume Tower
+
+Brume Tower
+-Pulling the Lever (1:56:50)
+-Light Bonfire 
+-Do corridor 
+-Pickup Scorching Iron Scepter 
+-Commit suicide 
+
+-Drop down to Tower Key(1:59:51)
+-Goto Iron Passage 
+
+Iron Passage
+-Kill Smelter Demon (Rapier/Brightbug/Goldpine/Mushroom)
+-Darksign Out
+
+Brume Tower
+-Drop to Fume Knight (2:03:15)
+-Kill Fume Knight (Rapier/Brightbug/Goldpine/Mushroom)
+-Darksign Out
+
+-Pickup 2x Brightbugs from chest 
+-Goto Memory of the Old Iron King
+
+Memory of the Old Iron King 
+-Kill Sir Knight Alonne (Rapier/Brightbug/Goldpine/Mushroom)
+-Darksign Out
+-Warpto Black Gulch 
+
+Black Gulch 
+-Kill Giants (Twinblade/Goldpine)
+-Talk to Gandalf 
+-Goto Dark Chasm of Old
+
+Dark Chasm of Old
+-Kill Enemies (Twinblade/Brightbug/Goldpine)
+-Warpto Shaded Woods
+
+Shaded Woods
+-Talk to Gandalf
+-Goto Chasm 
+
+Chasm 
+-Kill Enemies (Twinblade/~Brightbug/Goldpine)
+-Warpto Undead Crypt
+
+Undead Crypt 
+-Kill Vendrick (Twinblade/Brightbug/Goldpine)
+-Darksign Out
+-Warpto Drangleic Castle
+
+Drangleic Castle 
+-Goto Chasm 
+
+Chasm 
+-Kill Enemies (Twinblade/Goldpine)
+-Kill Darklurker (Twinblade/Brightbug/Goldpine)
+-Darksign Out
+
+Drangleic Castle 
+-Kill Throne Watcher and Denfender (Twinblade/Brightbug/Goldpine/Mushroom)
+-Kill Nashandra (Twinblade/Goldpine)
+-Kill Aldia (Twinblade/Brightbug/Goldpine/Mushroom)"""
     )
 
     poem_s2 = Poem(
@@ -429,20 +931,137 @@ It just stops moving."""
     author = "monika",
     title = "Hole in Wall",
     text = """\
-It couldn't have been me.
-See, the direction the spackle protrudes.
-A noisy neighbor? An angry boyfriend? I'll never know. I wasn't home.
-I peer inside for a clue.
-No! I can't see. I reel, blind, like a film left out in the sun.
-But it's too late. My retinas.
-Already scorched with a permanent copy of the meaningless image.
-It's just a little hole. It wasn't too bright.
-It was too deep.
-Stretching forever into everything.
-A hole of infinite choices.
-I realize now, that I wasn't looking in.
-I was looking out.
-And he, on the other side, was looking in."""
+Additional info for special Items and new things: https://pastebin.com/M4r17bvB
+ 
+Bandit, Healing Wares
+(Pick up Binos) get Estus Flask, light Bonfire, kill Maughlin, go to Heide's Tower
+Dragonrider
+Light Tower of Flame Bonfire, warp to Majula
+Level 27 Dex
+Forest of Fallen Giants, pop Dragonrider Soul
+Buy Lenigrast's Key, Pharros Lockstone, 7 Firebombs, light Cardinal Tower Bonfire
+Kill Pate with 4 Firebomb headshots, pick up his Spear
+Last Giant (Pate's Spear) Dark Sign
+Pop Last Giant Soul, buy 3 Brightbugs (4 Throwing Knives), get Ring, send her back
+Pursuer
+Warp to Majula at The Tower Apart Bonfire
+Open Blacksmith door, buy Cat Ring, 10 Bones, 10 Alluring Skulls
+Light Grave of Saints Bonfire, continue dropping down
+Pick up Branch, light second Black Gulch Bonfire
+Rotten (Pate's Spear, BB)
+Light Primal Bonfire, DLC1 Runthrough
+Light Tower of Prayer Bonfire
+Pick up 20k Soul+3 Dragoncharm and 3 Dragonbones(+5 Twinkling) on the right
+Flynns Ring, Dragon Stone, Eternal Sanctum Key
+3 Dragonbones in Lair of the Imperfect (forward, right Item)
+Place Dragonstone, trigger Elevator, pick up Drakeblood Greatsword, go up Elevator and pop Souls (dont die)
+Warp to Majula at Sanctum Interior Bonfire
+Level 15 Vgr, 20 End, 10 Str, 30 Dex, 10 Adp, Upgrade DBGS to +3
+Warp to Tower of Prayer
+Pick up Lightning Clutch Ring, light Priestess' Chamber Bonfire, pick up Torches, Bone, Warp to Heide's Tower
+Old Dragonslayer(Bone)
+Pop Old Dragonslayer Soul at Elevator
+Flexile Sentry(Bone)
+Warp to Majula, buy 3 Brightbugs, 11 Lifegems
+Shaded Woods
+Light Ruined Fork Road Bonfire, pick up RTSR, bone back
+Buy Ring of Soul Protection, 35+ Resins from Vengarl
+Chloranthy Ring, Shaded Ruins Bonfire
+Najka (GPR)
+Royal Rat Authority (GPR)
+Congregation
+Freja(BB, GPR)
+Light Primal Bonfire, kill Duke, pick up Branch, use Primal
+Buy Club, 3  Brightbugs (11 Lifegems)
+Buy Cleric's Sacred Chime, Ring of Prayer, Homeward, Force from Licia, turn the way
+Light the Bridge Approach Bonfire
+Skeleton Lords (DBGS for big guys, Club for small guys)
+After pulling lever: pop 1 Soul (heal) resin
+Covetous Demon (GPR should last til kill)
+Mytha (BB, GPR)
+Pop 5 Souls
+Smelter Demon (BB, GPR)
+Old Iron King (GPR)
+Light Primal Bonfire, DLC2 Runthrough
+Pop 2 Souls at first Elevator
+Light Foyer Bonfire
+8 Dragonbones in Corridor, behind breakable wall (with 2nd Cask Runner)
+Equip Ring of Prayer, Cat Ring, Ring of Soul Protection
+2 Dragonbones in Scorcher Tower
+Get Scorched Iron Scepter, die, place it, Warp to Majula
+Level 26 End, 10 Atn, 40 Dex, 3 Int, 14 Faith
+Upgrade DBGS to +5, Buy 3 Brightbugs, 3 Amber Herbs, some Lifegems
+Attune Homeward, warp to Huntsman's Copse
+Chariot (GPR) Homeward
+Elana (BB, GPR, RTSR for 1 cycle if you rotate behind her)
+Pop 2 Souls
+Sinh (GPR, same BB) Homeward
+Warp to Ruined Fork Road
+Shrine of Winter, light first DLC3 Bonfire (Outter Wall)
+Drangleic Castle, light King's Gate Bonfire
+Talk to Grandahl, Homeward out
+Pick up Old Radiant Lifegems
+Dragonriders (GPR)
+Trigger Elevator, pick up Flame Butterflies+Repair Powders
+Use Amber Herb on Elevator, get Key to the King's Passage, Homeward out
+Pick up 3 Alluring Skulls
+Mirror Knight (GPR)
+Use Amber Herb on Elevator
+Demon of Song (GPR)
+Light Undead Crypt Entrance Bonfire
+Buy Soul Appease, 13 Mushrooms from Agdayne
+Light Undead Ditch Bonfire, shortcut for Vendrick later
+Velstadt (GPR)
+Pick up King's Ring, Homeward out
+Attune Soul Appease over Homeward, warp to Lost Bastille
+Ruin Sentinels
+Gargoyles (GPR) Bone
+Dont pop Velstadt's Soul!
+Clear Undead Citizens at Gate and in Straid's Room with Soul Appease
+Unpetrify Straid, buy Sacred Oath
+Lost Sinner (GPR)
+Light Primal, talk to Aldia, Bone out
+Warp to first Undead Crypt Bonfire, talk to Aldia, warp to Grave of Saints
+Royal Rat Vanguard (Small Rats with Soul Appease, DBGS for Boss Rat) Bone
+Attune Homeward over Soul Appease, warp to Ruined Fork Road
+Guardian Dragon(GPR)
+Pop Souls on Elevator, talk to Aldia at first Dragon Shrine Bonfire
+Ancient Dragon (BB, GPR, RTSR setup with catalyst/fist blocked dust hit) Homeward
+Warp to Forest of Fallen Giants
+Giant Lord (GPR) pick up Giant Soul, Homeward
+Warp to Majula
+Buy 2+ Effigies, Lifegems, Radiant Lifegems, 3 Brightbugs
+Level 39 Vgr, 25 Atn, 17 Adp, 20 Fth
+Attune Sacred Oath on free Slot, Warp to Frozen Eleum Loyce
+Aava (GPR, SO, BB)
+Ivory King Peasents(GPR, SO)
+Ivory King (Repair Powder(2), Amber Herb, GPR, SO, BB)
+Get Garrison Ward Key, 5 Radiant Lifegems at the Gate, skip Brightbugs
+Lud and Zallen(GPR, SO, BB)
+Warp to Brume Tower (Foyer)
+Pick up Tower Key
+Fume Knight(GPR, SO, BB) Dark Sign
+Blue Smelter(GPR, SO, BB) Dark Sign
+Warp to first Bonfire (Upper Floor) skip Brightbugs
+Sir Alonne(GPR, SO, BB) Dark Sign
+Warp To Black Gulch
+Kill Giants Dark Sign, talk to Grandahl, Homeward
+Warp to Shaded Ruins
+Talk to Grandahl, enter Dungeon
+Dungeon 2 (GPR, SO, BB) Homeward (yes, that's the official name)
+Warp to Blackgulch
+Dungeon 1 (GPR, SO, BB) Homeward
+Attune Force over Homeward, Warp to Undead Ditch Bonfire
+Vendrick (GPR, SO, BB) Dark Sign
+Warp to Priestess' Chamber Bonfire, pick up Brightbugs
+Gank Squad (GPR, SO, BB) Dark Sign (Force helps with Staggers)
+Warp to King's Gate
+Dungeon 3 (DBGS/Force to make people fall)
+Darklurker (GPR, SO) Dark Sign
+Throne Watcher&Defender (GPR, SO)
+Nashandra (GPR, SO, BB)
+Aldia (new GPR, same BB)
+Congratz on fast."""
     )
 
     poem_m21 = Poem(
