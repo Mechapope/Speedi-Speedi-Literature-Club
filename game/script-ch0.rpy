@@ -5,11 +5,11 @@ label ch0_main:
     play music t2
 
     s "Heeeeeeeyyy!!"
-    "I see an annoying speedrunner running toward me from the distance, waving his arms in the air like he's totally oblivious to any attention he might draw to himself."
+    "I see an annoying speedrunner binoboosting toward me from the distance, waving his arms in the air like he's totally oblivious to any attention he might draw to himself."
     "That guy is Santzo, my neighbor and good friend since we were children."
     "You know, the kind of friend you'd never see yourself making today, but it just kind of works out because you've known each other for so long?"
     #he would lift
-    "We used to walk to school together on days like this, but starting around high school he would oversleep more and more frequently, and I would get tired of waiting up."
+    "We used to walk to school together on days like this, but starting around high school he would over-lift more and more frequently, and I would get tired of waiting."
     "But if he's going to chase after me like this, I almost feel better off running away."
     "However, I just sigh and idle in front of the crosswalk and let Santzo catch up to me."
     $ s_name = "Santzo"
@@ -223,7 +223,8 @@ label ch0_main:
     show sayori 4m at t31 zorder 2
     show monika 2d at t33 zorder 2
     s "Uwooooah!"
-    "Capitaine lifts the foil off the tray to reveal a dozen white, fluffy cupcakes decorated to look like little cats."
+    "Capitaine lifts the foil off the tray to reveal a dozen white, fluffy cupcakes decorated with Black Knight Halberds."
+    #something something
     "The whiskers are drawn with icing, and little pieces of chocolate were used to make ears."
     show sayori at f31 zorder 3
     s 4r "So cuuuute~!"
@@ -317,7 +318,7 @@ label ch0_main:
     m 3b "You could put it that way."
     m "Not many people are very interested in putting out all the effort to start something brand new..."
     m "Especially when it's something that doesn't grab your attention, like speedrunning."
-    m "You have to work hard to convince people that you're both fun and worthwhile."
+    m "You have to work hard to convince people that you're both fun and fast."
     m "But it makes school events, like the festival, that much more important."
     m 2k "I'm confident that we can all really grow this club before we graduate!"
     m "Right, everyone?"
@@ -405,7 +406,7 @@ label ch0_main:
     show natsuki at t31 zorder 2
     show monika at f33 zorder 3
     m 3b "You left a piece of scrap paper behind last club meeting."
-    m "It looked like you were working on a route called--"
+    m "It looked like you were working on a route called Ulti--"
     show monika at t33 zorder 2
     show natsuki 1p at f31 zorder 3
     n "Don't say it out loud!!"
@@ -510,7 +511,7 @@ label ch0_main:
     mc "Y-You all..."
     "I...I'm defenseless against these speedrunners."
     "How am I supposed to make a clear-headed decision when it's like this?"
-    "That is, if writing poems is the price I need to pay in order to spend every day with these beautiful speedrunners..."
+    "That is, if writing poems is the price I need to pay in order to spend every day with these fast as heck speedrunners..."
     mc "...Right."
     mc "Okay, I've decided, then."
     mc "I'll join the Speedrunning Club."
@@ -552,12 +553,12 @@ label ch0_main:
     mc "Y-Yeah..."
     show monika at thide zorder 1
     hide monika
-    "Can I really impress the class star Miltent with my mediocre routing skills?"
+    "Can I really impress the class memer Miltent with my mediocre routing skills?"
     "I already feel the anxiety welling up inside me."
     "Meanwhile, the speedrunners continue to chit-chat as Noobest and Capitaine clean up their food."
     show sayori 1a at t11 zorder 2
-    s "Hey, [player], since we're already here, do you want to walk home together?"
-    "That's right - Santzo and I never walk home together anymore because he always stayed after school to work out."
+    s "Hey, [player], since we're already here, do you want to lift together?"
+    "That's right - Santzo and I never lift together anymore because he always stayed after school to work out."
     mc "Sure, might as well."
     s 4q "Yaay~"
 
@@ -584,6 +585,6 @@ label ch0_main:
     "Alright!"
     "I'll just need to make the most of my circumstances, and I'm sure good fortune will find me."
     "And I guess that starts with writing a route tonight..."
-    "No farming though"
+    "No farming routes though."
 
     return

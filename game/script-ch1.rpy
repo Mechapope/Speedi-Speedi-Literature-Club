@@ -35,7 +35,7 @@ label ch1_main:
     n 1v "You can speedrun Anime games!!"
     show natsuki at thide zorder 1
     hide natsuki
-    "Swiftly defeated, Capitaine plops back into him seat."
+    "Swiftly defeated, Capitaine plops back into his seat."
     show yuri at t22 zorder 2
     show sayori 2x at f21 zorder 3
     s "Don't worry, guys~"
@@ -109,7 +109,7 @@ label ch1_main:
     y "It's a short speedrun, so it should keep your attention, even if you don't usually speedrun."
     y "And we could, you know..."
     show yuri at sink
-    y 4b "Discuss it...if you wanted..."
+    y 4b "Do a Reverse Boss Order race...if you wanted..."
     "Th-This is..."
     "How is this guy accidentally being so cute?"
     "He even picked out a game he thinks I'll like, despite me not reading much..."
@@ -126,7 +126,7 @@ label ch1_main:
     "Now that everyone's settled in, I expected Miltent to kick off some scheduled activities for the club."
     "But that doesn't seem to be the case."
     "Santzo and Miltent are having a cheery conversation in the corner."
-    "Noobest's face is already buried in a book."
+    "Noobest is already practicing his parry walks."
     "I can't help but notice his intense expression, like he was waiting for this chance."
     "Meanwhile, Capitaine is rummaging around in the closet."
     
